@@ -32,3 +32,11 @@ if (instance_exists(global.plant[6])){
 	global.plant[6].x = 633;
 	global.plant[6].y = 8;
 }
+
+//ускорение на shift	
+if (keyboard_check(vk_shift)){
+	game_set_speed(120, gamespeed_fps);
+}
+else {
+	game_set_speed(60, gamespeed_fps);
+}

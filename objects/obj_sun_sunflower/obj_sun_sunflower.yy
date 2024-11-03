@@ -13,8 +13,8 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_sun_falling",
-    "path":"objects/obj_sun_falling/obj_sun_falling.yy",
+    "name":"obj_sun",
+    "path":"objects/obj_sun/obj_sun.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_zombie_walk",
   "bboxMode":0,
-  "bbox_bottom":636,
-  "bbox_left":40,
-  "bbox_right":498,
+  "bbox_bottom":145,
+  "bbox_left":9,
+  "bbox_right":113,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -61,7 +61,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":700,
+  "height":160,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"ba939766-a0a6-4a37-ae81-c287296dd653","blendMode":0,"displayName":"default","isLocked":false,"name":"ba939766-a0a6-4a37-ae81-c287296dd653","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -266,5 +266,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":500,
+  "width":114,
 }
