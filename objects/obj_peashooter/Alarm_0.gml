@@ -1,0 +1,11 @@
+//создание проджектайла
+instance_create_layer(x, y - 60, "Instances", obj_projectile_pea);
+shoot += 1;
+image_yscale = 0.9;
+alarm[1] = 5;
+if (shoot < shoot_max){
+	alarm[0] = 7.5;
+}
+else {
+	shoot = 0;
+}

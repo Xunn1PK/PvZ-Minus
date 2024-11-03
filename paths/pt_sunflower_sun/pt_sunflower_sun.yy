@@ -1,0 +1,26 @@
+{
+  "$GMPath":"",
+  "%Name":"pt_sunflower_sun",
+  "closed":false,
+  "kind":0,
+  "name":"pt_sunflower_sun",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":20.0,"x":254.85075,"y":319.4953,},
+    {"speed":15.0,"x":254.80109,"y":289.95703,},
+    {"speed":10.0,"x":255.21048,"y":265.70392,},
+    {"speed":5.0,"x":255.21048,"y":251.58884,},
+    {"speed":2.5,"x":254.9299,"y":249.51689,},
+    {"speed":5.0,"x":254.56313,"y":252.17479,},
+    {"speed":10.0,"x":254.23375,"y":265.89975,},
+    {"speed":15.0,"x":254.2471,"y":290.31384,},
+    {"speed":20.0,"x":253.62268,"y":318.15894,},
+    {"speed":0.0,"x":253.83365,"y":331.46292,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

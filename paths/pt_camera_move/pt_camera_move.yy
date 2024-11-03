@@ -1,0 +1,23 @@
+{
+  "$GMPath":"",
+  "%Name":"pt_camera_move",
+  "closed":false,
+  "kind":1,
+  "name":"pt_camera_move",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":20.0,"x":407.5,"y":300.0,},
+    {"speed":30.0,"x":446.0,"y":300.0,},
+    {"speed":40.0,"x":524.5,"y":300.0,},
+    {"speed":50.0,"x":583.0,"y":300.0,},
+    {"speed":40.0,"x":672.0,"y":300.0,},
+    {"speed":30.0,"x":823.0,"y":300.0,},
+    {"speed":20.0,"x":922.5,"y":300.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
