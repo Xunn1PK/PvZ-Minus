@@ -40,3 +40,7 @@ if (keyboard_check(vk_shift)){
 else {
 	game_set_speed(60, gamespeed_fps);
 }
+
+if (global.lvl_start = 1 and alarm[2] = -1){
+alarm[2] = 60*10
+}
