@@ -1,5 +1,5 @@
-var row = random_range(0, 5)  //выбор рандомной линии
-switch (row){
+var row1 = random_range(0, 5)  //выбор рандомной линии
+switch (row1){
 case 0:
 instance_create_layer(1440, 22, "zombie", obj_zombie)
 break
@@ -16,3 +16,4 @@ case 4:
 instance_create_layer(1440, 416, "zombie", obj_zombie)
 break
 }
+//ааоаооаоаоа
