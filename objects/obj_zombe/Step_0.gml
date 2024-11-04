@@ -1,6 +1,6 @@
 //движение
 if (global.lvl_start = 1){
-	x += 1;
+	x -= 1;
 	sprite_index = spr_zombie_walk;
 }
 //получение урона от проджектайлов
