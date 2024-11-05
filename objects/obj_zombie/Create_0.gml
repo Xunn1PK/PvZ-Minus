@@ -4,3 +4,7 @@ if (random_range(0, 2) = 1){
 }
 //хп
 hp = 270;
+//скорость
+spddefoltzombie = 0.5
+//дамаг
+damage = 20;
