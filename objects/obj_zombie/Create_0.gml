@@ -5,6 +5,6 @@ if (random_range(0, 2) = 1){
 //хп
 hp = 270;
 //скорость
-spddefoltzombie = 0.5
+spd = 0.35;
 //дамаг
 damage = 20;

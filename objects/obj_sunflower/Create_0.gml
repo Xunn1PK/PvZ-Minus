@@ -1,3 +1,4 @@
+event_inherited();
 cost = 50;
 seed_packet = obj_sunflower_seedpacket;
 //алармы для выпадения солнц

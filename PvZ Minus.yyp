@@ -40,7 +40,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"PvZ Minus",
   "resources":[
@@ -63,7 +63,6 @@
     {"id":{"name":"obj_sunflower","path":"objects/obj_sunflower/obj_sunflower.yy",},},
     {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"obj_wave_controller","path":"objects/obj_wave_controller/obj_wave_controller.yy",},},
-    {"id":{"name":"obj_zombie_parrent","path":"objects/obj_zombie_parrent/obj_zombie_parrent.yy",},},
     {"id":{"name":"obj_zombie","path":"objects/obj_zombie/obj_zombie.yy",},},
     {"id":{"name":"pt_camera_move_1","path":"paths/pt_camera_move_1/pt_camera_move_1.yy",},},
     {"id":{"name":"pt_camera_move","path":"paths/pt_camera_move/pt_camera_move.yy",},},
@@ -77,6 +76,7 @@
     {"id":{"name":"mus_day","path":"sounds/mus_day/mus_day.yy",},},
     {"id":{"name":"mus_menu","path":"sounds/mus_menu/mus_menu.yy",},},
     {"id":{"name":"snd_sun","path":"sounds/snd_sun/snd_sun.yy",},},
+    {"id":{"name":"bg_day_unsodded","path":"sprites/bg_day_unsodded/bg_day_unsodded.yy",},},
     {"id":{"name":"bg_day","path":"sprites/bg_day/bg_day.yy",},},
     {"id":{"name":"null","path":"sprites/null/null.yy",},},
     {"id":{"name":"spr_bg_house","path":"sprites/spr_bg_house/spr_bg_house.yy",},},
