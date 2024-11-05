@@ -14,3 +14,14 @@ if (place_meeting(x, y, obj_plant_parrent)){
 	spd = 0;
 	sprite_index = spr_zombie_eat;
 }
+
+if (place_meeting(x, y, obj_projectile)){
+	hp -= obj_projectile.damage;
+}
+if (hp <= 0){
+	spd = 0;
+	sprite_index = spr_zombie_death;
+	if (image_index >= 31){
+		instance_destroy();
+	}
+}

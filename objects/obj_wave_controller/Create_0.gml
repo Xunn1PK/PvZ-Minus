@@ -1,3 +1,7 @@
+wave = 0;
+last_wave = 10;
+row = 0;
+y_position = 0;
 global.lvl_start = 0;
 global.sun = -1;
 alarm[0] = 380;

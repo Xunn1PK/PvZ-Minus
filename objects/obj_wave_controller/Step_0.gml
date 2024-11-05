@@ -42,6 +42,6 @@ else {
 }
 
 //спавн зомби
-if (global.lvl_start = 1 and alarm[2] = -1){
-alarm[2] = 60*10
+if (global.lvl_start = 1 and alarm[2] = -1 and wave < last_wave){
+	alarm[2] = 60*30;
 }
