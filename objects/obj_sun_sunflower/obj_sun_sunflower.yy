@@ -9,8 +9,8 @@
   "name":"obj_sun_sunflower",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"sun",
+    "path":"folders/Objects/plants/sun.yy",
   },
   "parentObjectId":{
     "name":"obj_sun",

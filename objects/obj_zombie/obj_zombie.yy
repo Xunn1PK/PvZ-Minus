@@ -9,8 +9,8 @@
   "name":"obj_zombie",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Zombie",
+    "path":"folders/Objects/Zombie.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -8,8 +8,8 @@
   "name":"obj_sun_falling",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"sun",
+    "path":"folders/Objects/plants/sun.yy",
   },
   "parentObjectId":{
     "name":"obj_sun",
