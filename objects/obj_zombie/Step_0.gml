@@ -4,24 +4,31 @@ if (global.lvl_start = 1){
 	sprite_index = spr_zombie_walk;
 }
 if (image_index <= 17 or (image_index >= 25 and image_index < 42)){
-	spd = 0.35;
+	spd = 0.3;
 }
 else {
-	spd = 0.5;
+	spd = 0.45;
+}
+if (keyboard_check_pressed(vk_shift)){
+	image_speed = 2;
+}
+else {
+	image_speed = 1;
 }
 //поедание растений
 if (place_meeting(x, y, obj_plant_parrent)){
 	spd = 0;
 	sprite_index = spr_zombie_eat;
 }
-
-if (place_meeting(x, y, obj_projectile)){
+//получение урона
+if (place_meeting(x, y, obj_projectile) and hp > 0){
 	hp -= obj_projectile.damage;
 }
+//смэрть
 if (hp <= 0){
 	spd = 0;
 	sprite_index = spr_zombie_death;
-	if (image_index >= 31){
-		instance_destroy();
+	if (alarm[0] = -1){
+		alarm[0] = 60*1.375;
 	}
 }
