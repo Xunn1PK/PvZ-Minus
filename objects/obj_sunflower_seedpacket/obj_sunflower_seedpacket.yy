@@ -36,5 +36,5 @@
     "path":"sprites/spr_sunflower_seed/spr_sunflower_seed.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

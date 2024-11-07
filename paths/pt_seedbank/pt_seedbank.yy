@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"pt_seedbank",
+  "closed":false,
+  "kind":0,
+  "name":"pt_seedbank",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":-87.0,},
+    {"speed":100.0,"x":0.0,"y":0.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

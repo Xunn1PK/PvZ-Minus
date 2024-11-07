@@ -12,3 +12,6 @@ global.plant[3] = noone;
 global.plant[4] = noone;
 global.plant[5] = noone;
 global.plant[6] = noone;
+
+//макросы
+#macro mouse_click position_meeting(mouse_x, mouse_y, self) and mouse_check_button_pressed(mb_left)

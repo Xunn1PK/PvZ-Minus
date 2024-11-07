@@ -5,32 +5,32 @@ switch (room){
 }
 //расположение семян растений после выбора
 if (instance_exists(global.plant[0])){
-	global.plant[0].x = 333;
-	global.plant[0].y = 8;
+	global.plant[0].x = obj_seedbank.x + 77;
+	global.plant[0].y = obj_seedbank.y + 8;
 }
 if (instance_exists(global.plant[1])){
-	global.plant[1].x = 383;
-	global.plant[1].y = 8;
+	global.plant[1].x = obj_seedbank.x + 128;
+	global.plant[1].y = obj_seedbank.y + 8;
 }
 if (instance_exists(global.plant[2])){
-	global.plant[2].x = 433;
-	global.plant[2].y = 8;
+	global.plant[2].x = obj_seedbank.x + 179;
+	global.plant[2].y = obj_seedbank.y + 8;
 }
 if (instance_exists(global.plant[3])){
-	global.plant[3].x = 483;
-	global.plant[3].y = 8;
+	global.plant[3].x = obj_seedbank.x + 230;
+	global.plant[3].y = obj_seedbank.y + 8;
 }
 if (instance_exists(global.plant[4])){
-	global.plant[4].x = 533;
-	global.plant[4].y = 8;
+	global.plant[4].x = obj_seedbank.x + 281;
+	global.plant[4].y = obj_seedbank.y + 8;
 }
 if (instance_exists(global.plant[5])){
-	global.plant[5].x = 583;
-	global.plant[5].y = 8;
+	global.plant[5].x = obj_seedbank.x + 332;
+	global.plant[5].y = obj_seedbank.y + 8;
 }
 if (instance_exists(global.plant[6])){
-	global.plant[6].x = 633;
-	global.plant[6].y = 8;
+	global.plant[6].x = obj_seedbank.x + 383;
+	global.plant[6].y = obj_seedbank.y + 8;
 }
 
 //ускорение на shift	

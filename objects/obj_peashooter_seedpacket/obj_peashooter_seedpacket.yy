@@ -36,5 +36,5 @@
     "path":"sprites/spr_peashooter_seed/spr_peashooter_seed.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

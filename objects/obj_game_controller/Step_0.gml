@@ -10,3 +10,6 @@ if (room = rm_loading){
 if (room = rm_menu and !audio_is_playing(mus_menu)){
 	audio_play_sound(mus_menu, 1, 1);
 }
+
+
+
