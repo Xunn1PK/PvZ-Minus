@@ -1,9 +1,10 @@
 wave = 0;
-last_wave = 10;
+last_wave = 5;
 row = 0;
 y_position = 0;
+drop = 0;
 global.lvl_start = 0;
-global.sun = -1;
+global.sun = 150;
 alarm[0] = 380;
 audio_stop_all();
 audio_play_sound(mus_choose_seeds, 1, 1);

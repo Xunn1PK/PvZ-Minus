@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_adventure_start",
-    "path":"sprites/spr_button_adventure_start/spr_button_adventure_start.yy",
+    "name":"spr_button_adventure",
+    "path":"sprites/spr_button_adventure/spr_button_adventure.yy",
   },
   "spriteMaskId":null,
   "visible":true,

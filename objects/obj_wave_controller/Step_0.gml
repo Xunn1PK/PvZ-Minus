@@ -43,5 +43,11 @@ else {
 
 //спавн зомби
 if (global.lvl_start = 1 and alarm[2] = -1 and wave < last_wave){
-	alarm[2] = 60*30;
+	alarm[2] = 60*15;
+}
+
+if (wave = last_wave and !instance_exists(obj_zombie) and drop != 1){
+	get_level_drop();
+	instance_create_layer(930, 300, "zombie", drop);
+	drop = 1;
 }

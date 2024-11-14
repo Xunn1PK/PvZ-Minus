@@ -1,0 +1,1 @@
+flash_start = 1;

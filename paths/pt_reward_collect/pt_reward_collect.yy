@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"pt_reward_collect",
+  "closed":false,
+  "kind":0,
+  "name":"pt_reward_collect",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":5.0,"x":880.0,"y":312.0,},
+    {"speed":5.0,"x":600.0,"y":260.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
